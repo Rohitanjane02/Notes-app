@@ -1,5 +1,5 @@
 import {MdDeleteForever} from 'react-icons/md'  //*package for deleting the note
-
+import React from 'react'
 //!It contains an individual note list
 const Note = () => {
     return (
